@@ -4,6 +4,8 @@ Double-click a C64 file in Windows Explorer and it runs on your **C64 Ultimate**
 
 C64Run is a single, small `.exe`: no installer, no runtime, no admin rights needed.
 
+<img width="622" height="345" alt="image" src="https://github.com/user-attachments/assets/a8ebc682-556a-431d-83be-e4dd8e94e7bd" />
+
 ## Features
 
 - **Double-click to run** `.prg`, `.crt`, `.d64`, `.sid` and `.mod` files on the C64 Ultimate.
