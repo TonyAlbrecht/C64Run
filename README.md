@@ -25,7 +25,7 @@ C64Run is a single, small `.exe`: no installer, no runtime, no admin rights need
 
 ## Getting started
 
-1. Download `C64Run.exe` from the [latest release](../../releases/latest) and put it anywhere (e.g. `Documents\C64Run`).
+1. Download `C64Run.exe` from the [latest release](../../releases/latest) and put it anywhere (`bin` directory or somewhere else where you won't forget).
 2. Double-click `C64Run.exe`.
 > Because the exe isn't code-signed, Windows SmartScreen may warn you the first time you run it. Click **More info → Run anyway**.
 3. Enter your C64 Ultimate's IP address (shown in its menu under network settings), and the network password if you set one.
