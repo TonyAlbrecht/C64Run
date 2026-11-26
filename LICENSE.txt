@@ -1,0 +1,12 @@
+C64Run - Copyright (c) 2026 Tony Albrecht. All rights reserved.
+
+You may use C64Run free of charge, and you may share unmodified copies of it,
+provided this notice is included. You may not sell it, bundle it for sale, or
+distribute modified versions.
+
+C64Run is provided "as is", without warranty of any kind. The author is not
+liable for any damage or data loss arising from its use, including resetting,
+rebooting or powering off a connected C64 Ultimate.
+
+C64Run is not affiliated with or endorsed by Commodore. "Commodore", "C64"
+and the Commodore logo are trademarks of their respective owners.
